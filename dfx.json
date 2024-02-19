@@ -1,0 +1,29 @@
+{
+  "canisters": {
+    "KKRIB_DAO_backend": {
+      "main": "src/KKRIB_DAO_backend/main.mo",
+      "type": "motoko"
+    },
+    "KKRIB_DAO_frontend": {
+      "dependencies": [
+        "KKRIB_DAO_backend"
+      ],
+      "frontend": {
+        "entrypoint": "src/KKRIB_DAO_frontend/src/index.html"
+      },
+      "source": [
+        "src/KKRIB_DAO_frontend/assets",
+        "dist/KKRIB_DAO_frontend/"
+      ],
+      "type": "assets"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
