@@ -1,6 +1,6 @@
 # KKRIB_DAO
 
-Welcome to your new KKRIB_DAO project and to the internet computer development community.
+Welcome to the KKRIB_DAO project and to the internet computer development community.
 
 To learn more before you start working with KKRIB_DAO, see the following documentation available online:
 
