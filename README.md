@@ -1,8 +1,6 @@
 # KKRIB_DAO
 
-Welcome to your new KKRIB_DAO project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
-
-To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
+Welcome to your new KKRIB_DAO project and to the internet computer development community.
 
 To learn more before you start working with KKRIB_DAO, see the following documentation available online:
 
@@ -11,6 +9,34 @@ To learn more before you start working with KKRIB_DAO, see the following documen
 - [Motoko Programming Language Guide](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/motoko/)
 - [Motoko Language Quick Reference](https://internetcomputer.org/docs/current/references/motoko-ref/)
 - [JavaScript API Reference](https://erxue-5aaaa-aaaab-qaagq-cai.raw.icp0.io)
+  
+# KKRIB-DAO
+
+# Off-plan Real Estate DAO Project
+
+## Overview
+This project aims to create a decentralized autonomous organization (DAO) leveraging the power of Web3 technology #ICP to manage participant proposals in an off-plan real estate project. The DAO operates on the principles of community consensus, where members contribute to the development of a promising real estate venture through a consent-based approach.
+
+## Motivation
+Off-plan real estate projects often face challenges in funding, decision-making, and community engagement. By utilizing a DAO framework, this project seeks to address these challenges by empowering community members to participate in project development, decision-making, and resource allocation.
+
+## Features
+- **Participant Management**: Allows for the addition, removal, and management of participants involved in the real estate project.
+- **Contribution Tracking**: Tracks the contributions of each participant to the project, ensuring transparency and accountability.
+- **Consensus-based Decision Making**: Facilitates community consensus through democratic voting mechanisms for project-related decisions.
+- **Project Transparency**: Provides visibility into project progress, financials, and decision-making processes to all stakeholders.
+- **Smart Contract Integration**: Utilizes smart contracts to automate and enforce project rules, transactions, and governance mechanisms.
+
+## Technologies Used
+- **Motoko**: Programming language for building Web3 applications on the Internet Computer (IC).
+- **Smart Contracts**: Utilized for implementing DAO functionalities, including participant management, voting mechanisms, and resource allocation.
+- **Internet Computer (IC)**: Blockchain platform used for hosting and executing decentralized applications (dApps) with high security and scalability.
+
+![homepage](https://github.com/dtroit75/KKRIB-DAO/assets/86202316/0a333eb1-f86c-4330-8b49-dd2461205206)
+
+![proposal form](https://github.com/dtroit75/KKRIB-DAO/assets/86202316/ac12fc63-5161-4dd0-a226-b2a6988b708c)
+
+![proposals listing](https://github.com/dtroit75/KKRIB-DAO/assets/86202316/4bd3b74d-a7ab-4aa0-8483-a7ec19f3d4ea)
 
 If you want to start working on your project right away, you might want to try the following commands:
 
